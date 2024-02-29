@@ -1,6 +1,6 @@
 # Proyecto
 
-Test para crear ususarios
+Test para crear usuarios
 
 ## Owner
 
